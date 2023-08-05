@@ -11,9 +11,11 @@ dj-database-url==2.0.0
 Django==4.2.4
 django-renderpdf==4.0.0
 fonttools==4.42.0
+gunicorn==21.2.0
 html5lib==1.1
 idna==3.4
 mysql-connector==2.2.9
+packaging==23.1
 Pillow==10.0.0
 psycopg2==2.9.7
 psycopg2-binary==2.9.7
