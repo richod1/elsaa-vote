@@ -10,7 +10,7 @@ distlib==0.3.7
 dj-database-url==2.0.0
 Django==3.2.19
 django-renderpdf==4.0.0
-fonttools==4.42.0
+fonttools==4.34.2
 gunicorn==21.2.0
 html5lib==1.1
 idna==3.4
